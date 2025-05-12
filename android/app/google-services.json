@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672512119039",
+    "project_id": "supatha-108",
+    "storage_bucket": "supatha-108.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672512119039:android:47c777aa8a6b7eb734fcca",
+        "android_client_info": {
+          "package_name": "com.example.supatha_108"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRzeoF8wGHjK5ijY9CdDP84WKzOxUCn54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
